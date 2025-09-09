@@ -1,0 +1,33 @@
+# Python Assignment
+
+## 📌 Overview
+This assignment contains simple Python programs demonstrating **basic input/output operations** and **arithmetic calculations**.
+
+---
+
+## 📝 Tasks
+
+### 🔹 Task 1: Arithmetic Operations
+A Python program that takes two numbers from the user and performs:
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
+
+**Example Output:**
+Enter the first number: 10
+Enter the second number: 5
+Addition: 15
+Subtraction: 5
+Multiplication: 50
+Divison: 2.0
+
+---
+
+### 🔹 Task 2: Greeting Message
+A Python program that asks the user for their **first name** and **last name**, then prints a welcome message.
+
+**Example Output:**
+Enter your first name: Piyush
+Enter your last name: Garg
+Hello, Piyush Garg! Welcome to the Python program.
