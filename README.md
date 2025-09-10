@@ -15,11 +15,17 @@ A Python program that takes two numbers from the user and performs:
 - Division  
 
 **Example Output:**
+<br>
 Enter the first number: 10
+<br>
 Enter the second number: 5
+<br>
 Addition: 15
+<br>
 Subtraction: 5
+<br>
 Multiplication: 50
+<br>
 Divison: 2.0    
 
 ---
