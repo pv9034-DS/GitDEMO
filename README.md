@@ -34,6 +34,9 @@ Divison: 2.0
 A Python program that asks the user for their **first name** and **last name**, then prints a welcome message.
 
 **Example Output:**
+<br>
 Enter your first name: Piyush
+<br>
 Enter your last name: Garg
+<br>
 Hello, Piyush Garg! Welcome to the Python program.
